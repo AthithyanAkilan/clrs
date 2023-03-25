@@ -1,4 +1,4 @@
-package sec1
+package sec3
 
 import "math"
 

@@ -1,4 +1,4 @@
-package sec1
+package sec3
 
 func MergeSortWithoutSentinels(arr []int, p, r int) {
 	if p < r {
